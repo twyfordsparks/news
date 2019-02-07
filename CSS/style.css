@@ -1,0 +1,23 @@
+body {
+    background-color: ;
+    
+}
+h1 {
+    color: #f7325e;
+    text-align: center;
+}
+.tropical {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}.intro {
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}.unimportant {
+    color: lime;
+}
+.sidebar {
+    float:right;
+    background color: purple;
+    width: 100%;
+}
